@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs (keep structure via .gitkeep; log files are committed as deliverables)
+# logs/*.log
+
+# Distribution
+dist/
+build/
+*.egg-info/

@@ -1,0 +1,75 @@
+[2026-04-22 13:49:33] [INFO] [bot.client] — BinanceFuturesClient initialised (base_url=https://demo-fapi.binance.com)
+[2026-04-22 13:49:33] [INFO] [bot.orders] — Placing MARKET BUY order for BTCUSDT qty=0.001
+[2026-04-22 13:49:33] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=BUY type=MARKET qty=0.001 price=None stop=None
+[2026-04-22 13:49:34] [INFO] [bot.client] — Order placed successfully — orderId=13060677026 status=NEW
+[2026-04-22 13:49:34] [INFO] [bot.orders] — MARKET order result: {'orderId': 13060677026, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 13:49:34] [DEBUG] [bot.client] — HTTP client closed.
+[2026-04-22 13:50:32] [INFO] [bot.client] — BinanceFuturesClient initialised (base_url=https://demo-fapi.binance.com)
+[2026-04-22 13:50:32] [INFO] [bot.orders] — Placing LIMIT BUY order for BTCUSDT qty=0.001 price=75000.0
+[2026-04-22 13:50:32] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=BUY type=LIMIT qty=0.001 price=75000.0 stop=None
+[2026-04-22 13:50:33] [INFO] [bot.client] — Order placed successfully — orderId=13060679561 status=NEW
+[2026-04-22 13:50:33] [INFO] [bot.orders] — LIMIT order result: {'orderId': 13060679561, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 13:50:33] [DEBUG] [bot.client] — HTTP client closed.
+[2026-04-22 14:50:47] [INFO] [bot.client] — BinanceFuturesClient initialised (base_url=https://demo-fapi.binance.com)
+[2026-04-22 14:50:47] [INFO] [bot.orders] — Placing MARKET BUY order for BTCUSDT qty=0.75
+[2026-04-22 14:50:47] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=BUY type=MARKET qty=0.75 price=None stop=None
+[2026-04-22 14:50:48] [INFO] [bot.client] — Order placed successfully — orderId=13060838022 status=NEW
+[2026-04-22 14:50:48] [INFO] [bot.orders] — MARKET order result: {'orderId': 13060838022, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 14:50:48] [INFO] [server] — Order placed and stored: 13060838022
+[2026-04-22 14:51:19] [INFO] [bot.orders] — Placing LIMIT SELL order for BTCUSDT qty=0.5 price=77976.8
+[2026-04-22 14:51:19] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=SELL type=LIMIT qty=0.5 price=77976.8 stop=None
+[2026-04-22 14:51:20] [INFO] [bot.client] — Order placed successfully — orderId=13060839448 status=NEW
+[2026-04-22 14:51:20] [INFO] [bot.orders] — LIMIT order result: {'orderId': 13060839448, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 14:51:20] [INFO] [server] — Order placed and stored: 13060839448
+[2026-04-22 14:51:55] [INFO] [bot.orders] — Placing LIMIT SELL order for BTCUSDT qty=0.75 price=77976.8
+[2026-04-22 14:51:55] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=SELL type=LIMIT qty=0.75 price=77976.8 stop=None
+[2026-04-22 14:51:55] [INFO] [bot.client] — Order placed successfully — orderId=13060840923 status=NEW
+[2026-04-22 14:51:55] [INFO] [bot.orders] — LIMIT order result: {'orderId': 13060840923, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 14:51:55] [INFO] [server] — Order placed and stored: 13060840923
+[2026-04-22 14:52:06] [INFO] [bot.orders] — Placing MARKET BUY order for BTCUSDT qty=0.5
+[2026-04-22 14:52:06] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=BUY type=MARKET qty=0.5 price=None stop=None
+[2026-04-22 14:52:06] [INFO] [bot.client] — Order placed successfully — orderId=13060841399 status=NEW
+[2026-04-22 14:52:06] [INFO] [bot.orders] — MARKET order result: {'orderId': 13060841399, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 14:52:06] [INFO] [server] — Order placed and stored: 13060841399
+[2026-04-22 15:02:47] [INFO] [bot.orders] — Placing LIMIT BUY order for BTCUSDT qty=0.021 price=78053.5
+[2026-04-22 15:02:47] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=BUY type=LIMIT qty=0.021 price=78053.5 stop=None
+[2026-04-22 15:02:47] [INFO] [bot.client] — Order placed successfully — orderId=13060871596 status=NEW
+[2026-04-22 15:02:47] [INFO] [bot.orders] — LIMIT order result: {'orderId': 13060871596, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 15:02:47] [INFO] [server] — Order placed and stored: 13060871596
+[2026-04-22 17:55:13] [INFO] [bot.orders] — Placing MARKET SELL order for BTCUSDT qty=0.001
+[2026-04-22 17:55:13] [DEBUG] [bot.client] — Placing order — symbol=BTCUSDT side=SELL type=MARKET qty=0.001 price=None stop=None
+[2026-04-22 17:55:14] [INFO] [bot.client] — Order placed successfully — orderId=13061313494 status=NEW
+[2026-04-22 17:55:14] [INFO] [bot.orders] — MARKET order result: {'orderId': 13061313494, 'status': 'NEW', 'executedQty': '0.0000', 'avgPrice': '0.00'}
+[2026-04-22 17:55:14] [INFO] [server] — Order placed and stored: 13061313494
+[2026-04-22 18:30:54] [INFO] [bot.client] — BinanceFuturesClient initialised (base_url=https://demo-fapi.binance.com)
+[2026-04-22 18:30:54] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:30:58] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:03] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:08] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:13] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:18] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:23] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:28] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:33] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:38] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:43] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:48] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:53] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:31:58] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:32:03] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:32:52] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:34] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:38] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:43] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:48] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:53] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:33:58] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:03] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:08] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:13] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:18] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:23] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:28] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:33] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:34:52] [DEBUG] [bot.client] — Fetching account balance
+[2026-04-22 18:35:52] [DEBUG] [bot.client] — Fetching account balance
